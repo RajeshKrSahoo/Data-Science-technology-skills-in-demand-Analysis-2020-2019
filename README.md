@@ -1,4 +1,4 @@
-# Data Science technology in demand skills Analysis 2020-2019
+# A Quick Tour to the Data Science technology in demand skills Analysis 2020-2019
 This Contains the current demanding skills on Data science Career and it's ranks, It contains clear Visualisation and datas to compare Technologies in demands today compared to previous years.
 
 This Gives a clear visualisation of what are the technolgies are in demand for Data Science in the job market, If you are preparing to pursue a career in Data Science, you can see the current technology skill in demand for DS in Job Market today and ace it for a better career.
@@ -24,7 +24,7 @@ As Plotly doesnot work on GitHub environment(after uploading codes) because the 
 ![newplot (3)](https://user-images.githubusercontent.com/27301175/74145068-f539e580-4c23-11ea-8fb5-405d9f60afca.png)
 
 ### Changes from 2019 to 2020
-  Over all chnages from 2019 to 2020 Technology Demands:: 
+  Over all changes from 2019 to 2020 Technology Demands:: 
 
 ![newplot (4)](https://user-images.githubusercontent.com/27301175/74145174-303c1900-4c24-11ea-9872-def7858a2421.png)
 
@@ -39,12 +39,23 @@ As Plotly doesnot work on GitHub environment(after uploading codes) because the 
 
 ### Over all Ranks Table and Demanding Skills:: 
 
-    Below is Data Science Skills in-demand technolgies table, which tells about the in-demand techs requirements in DS job posted by different companies
+  Below is Data Science Skills in-demand technolgies table, which tells about the in-demand techs requirements in DS job posted by different companies
 
 <img width="942" alt="rank Table" src="https://user-images.githubusercontent.com/27301175/74145545-1cdd7d80-4c25-11ea-8d9d-36ee968c99a5.png">
 
 
+### DS in-demand tech skill analysis Process: 
+      1)  Job Posting on Data Science has been Scrapped from different sites for data
+      2)  Mathematical Analysis like avg, percentage changes in demand compared to previous year
+      3)  Visualisation of Datas using matplotlib and Plotly
+      4)  Rank calculation of overall datas above 5% of job posting
+
 ### Thanks :)
+
+    Files: 1) TechSkills.ipynb
+           2) JobData_2019.csv
+    
+
 
 
 
