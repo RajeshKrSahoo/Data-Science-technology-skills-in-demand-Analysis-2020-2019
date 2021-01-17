@@ -5,7 +5,7 @@ This Gives a clear visualisation of what are the technolgies are in demand for D
 
 ### Note:  
 
-As Plotly doesnot work on GitHub environment(after uploading codes) because the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph, below are the visulation from Plotly 
+As Plotly doesnot work on GitHub environment(after uploading codes) because the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph, below are the visulization from Plotly 
 
 ![newplot](https://user-images.githubusercontent.com/27301175/74144645-2534b900-4c23-11ea-9e1d-80dcdfba694a.png)
 
